@@ -11,5 +11,5 @@
     • 3-6 pinned repositories, all of which have professional titles
 
 ## Link:
-
+https://beepritchard.github.io/Portfolio2/
     
